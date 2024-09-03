@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-24T15:02:41Z" name="Suite" finished-at="2024-08-24T15:03:47Z" duration-ms="66105">
+    <groups>
+    </groups>
+    <test started-at="2024-08-24T15:02:41Z" name="Test" finished-at="2024-08-24T15:03:47Z" duration-ms="66105">
+      <class name="com.testyantra.contacttest.CreateContactTest">
+        <test-method is-config="true" signature="configBs()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:02:40Z" name="configBs" finished-at="2024-08-24T15:02:41Z" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBs -->
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:02:41Z" name="configBc" finished-at="2024-08-24T15:02:42Z" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="configBm()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:02:42Z" name="configBm" finished-at="2024-08-24T15:02:46Z" duration-ms="4238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method signature="createContactTest()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:02:46Z" name="createContactTest" finished-at="2024-08-24T15:02:56Z" duration-ms="10213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method is-config="true" signature="configAm()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:02:56Z" name="configAm" finished-at="2024-08-24T15:03:01Z" duration-ms="4121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method is-config="true" signature="configBm()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:01Z" name="configBm" finished-at="2024-08-24T15:03:04Z" duration-ms="3291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method signature="createContactWithOrganizationTest()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:04Z" name="createContactWithOrganizationTest" finished-at="2024-08-24T15:03:25Z" duration-ms="20779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrganizationTest -->
+        <test-method is-config="true" signature="configAm()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:25Z" name="configAm" finished-at="2024-08-24T15:03:29Z" duration-ms="4100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method is-config="true" signature="configBm()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:29Z" name="configBm" finished-at="2024-08-24T15:03:32Z" duration-ms="3520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method signature="createContactWithPhoneNumber()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:32Z" name="createContactWithPhoneNumber" finished-at="2024-08-24T15:03:43Z" duration-ms="10561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithPhoneNumber -->
+        <test-method is-config="true" signature="configAm()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:43Z" name="configAm" finished-at="2024-08-24T15:03:47Z" duration-ms="3707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:47Z" name="configAc" finished-at="2024-08-24T15:03:47Z" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+        <test-method is-config="true" signature="configAs()[pri:0, instance:com.testyantra.contacttest.CreateContactTest@78641d23]" started-at="2024-08-24T15:03:47Z" name="configAs" finished-at="2024-08-24T15:03:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- com.testyantra.contacttest.CreateContactTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
